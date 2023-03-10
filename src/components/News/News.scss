@@ -1,0 +1,30 @@
+.news {
+  min-width: 920px;
+  max-width: 70%;
+  margin: 45px auto;
+  padding: 5px 0;
+
+  .go-back-news-button {
+    display: flex;
+    justify-content: end;
+  }
+
+  .title {
+    text-transform: uppercase;
+  }
+
+  .author {
+    color: #b88b58;
+    margin: 0;
+  }
+
+  .time {
+    margin: 0;
+    font-weight: 400;
+    color: grey;
+  }
+
+  .update-comments-button {
+    margin: 10px 0;
+  }
+}

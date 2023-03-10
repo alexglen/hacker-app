@@ -1,0 +1,20 @@
+.card-news-list-container {
+  background-color: black;
+  box-sizing: border-box;
+  padding-top: 25px;
+}
+
+.card-news-list {
+  background-color: #f2f2f2;
+  min-width: 920px;
+  max-width: 70%;
+  margin: 0 auto;
+  border-radius: 8px;
+  padding: 5px 0;
+
+  .update-news-list-button {
+    display: flex;
+    justify-content: end;
+    margin-right: 15px;
+  }
+}
